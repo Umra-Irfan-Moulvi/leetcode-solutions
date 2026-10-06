@@ -1,7 +1,13 @@
-# leetcode-solutions
-Personal LeetCode practice log — part of B25GE0101 portfolio
+# LeetCode Solutions
+
+## Student Details
+
 Name: Umra Irfan
 Roll Number: R25EJ170
+
+## Description
+
+Personal LeetCode practice log — part of B25GE0101 portfolio
 
 ## Table of Contents
 
